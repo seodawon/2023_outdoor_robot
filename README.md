@@ -39,3 +39,4 @@ TOF 센서를 이용해 측정한 거리 값으로 모터를 제어
 ###  거리 기반 모터 정밀 제어
 TOF 센서로 얻은 거리값에 따라 모터 속도를 정밀하게 제어
 ![모터와 TOF 구동](./media/모터+tof제어.gif)
+<img src="./media/모터+tof제어.gif" width="640" height="480" alt="모터와 TOF 구동">
