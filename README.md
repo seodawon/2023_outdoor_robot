@@ -30,13 +30,12 @@
 ###  시스템 구조 설계
 화이트보드에 전체 시스템 구성 및 흐름을 설계한 초기 구상안
 GPS, TOF 센서, STM32 제어 흐름 및 통신 방식 등으로 구성
-![시스템 구조 설계](media/초기_설계.png)
+<img src="media/초기_설계.png" width="640" height="480" alt="시스템 구조 설계">
 
 ###  TOF 센서를 활용한 모터 제어 실험
 TOF 센서를 이용해 측정한 거리 값으로 모터를 제어
-![모터와 TOF 연동 실험](./media/모터_tof.gif)
+<img src="./media/모터_tof.gif" width="640" height="480" alt="모터와 TOF 연동 실험">
 
 ###  거리 기반 모터 정밀 제어
 TOF 센서로 얻은 거리값에 따라 모터 속도를 정밀하게 제어
-![모터와 TOF 구동](./media/모터+tof제어.gif)
 <img src="./media/모터+tof제어.gif" width="640" height="480" alt="모터와 TOF 구동">
