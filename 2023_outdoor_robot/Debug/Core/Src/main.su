@@ -1,0 +1,9 @@
+../Core/Src/main.c:76:7:Uart_send	88	static
+../Core/Src/main.c:81:7:Uart_send32	72	static
+../Core/Src/main.c:86:7:Uart_send1	88	static
+../Core/Src/main.c:91:7:Uart_send2	64	static
+../Core/Src/main.c:96:7:Uart_Number_send	64	static
+../Core/Src/main.c:129:5:main	8	static
+../Core/Src/main.c:278:6:SystemClock_Config	88	static
+../Core/Src/main.c:320:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:383:6:Error_Handler	4	static,ignoring_inline_asm

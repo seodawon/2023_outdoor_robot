@@ -1,0 +1,4 @@
+../Core/Src/motor.c:10:6:MOTOR_Init	1
+../Core/Src/motor.c:70:6:ResetEnc	1
+../Core/Src/motor.c:77:6:B_Forward	1
+../Core/Src/motor.c:86:6:B_turn	4

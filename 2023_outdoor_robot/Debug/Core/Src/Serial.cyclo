@@ -1,0 +1,5 @@
+../Core/Src/Serial.c:36:23:serial_init	1
+../Core/Src/Serial.c:76:6:serial_write	3
+../Core/Src/Serial.c:94:9:serial_available	1
+../Core/Src/Serial.c:99:9:serial_read	2
+../Core/Src/Serial.c:128:6:HAL_UART_ErrorCallback	1

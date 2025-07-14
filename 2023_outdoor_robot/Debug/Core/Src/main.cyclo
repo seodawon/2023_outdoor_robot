@@ -1,0 +1,9 @@
+../Core/Src/main.c:76:7:Uart_send	1
+../Core/Src/main.c:81:7:Uart_send32	1
+../Core/Src/main.c:86:7:Uart_send1	1
+../Core/Src/main.c:91:7:Uart_send2	1
+../Core/Src/main.c:96:7:Uart_Number_send	1
+../Core/Src/main.c:129:5:main	13
+../Core/Src/main.c:278:6:SystemClock_Config	3
+../Core/Src/main.c:320:6:HAL_UART_RxCpltCallback	4
+../Core/Src/main.c:383:6:Error_Handler	1

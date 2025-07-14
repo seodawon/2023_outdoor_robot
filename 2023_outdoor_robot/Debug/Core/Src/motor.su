@@ -1,0 +1,4 @@
+../Core/Src/motor.c:10:6:MOTOR_Init	8	static
+../Core/Src/motor.c:70:6:ResetEnc	8	static
+../Core/Src/motor.c:77:6:B_Forward	24	static
+../Core/Src/motor.c:86:6:B_turn	24	static
